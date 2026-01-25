@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-25T21:16:59 IST" name="BlazeDemo Suite" finished-at="2026-01-25T21:17:12 IST" duration-ms="12987">
+    <groups>
+    </groups>
+    <test started-at="2026-01-25T21:16:59 IST" name="Flight Booking" finished-at="2026-01-25T21:17:12 IST" duration-ms="12987">
+      <class name="com.blazedemo.tests.BookFlightTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.blazedemo.tests.BookFlightTest@1623b78d]" started-at="2026-01-25T21:16:59 IST" name="setup" finished-at="2026-01-25T21:17:08 IST" duration-ms="8410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="bookLowestFlightTest()[pri:0, instance:com.blazedemo.tests.BookFlightTest@1623b78d]" started-at="2026-01-25T21:17:08 IST" name="bookLowestFlightTest" finished-at="2026-01-25T21:17:12 IST" duration-ms="4248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookLowestFlightTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.blazedemo.tests.BookFlightTest@1623b78d]" started-at="2026-01-25T21:17:12 IST" name="tearDown" finished-at="2026-01-25T21:17:12 IST" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.blazedemo.tests.BookFlightTest -->
+    </test> <!-- Flight Booking -->
+  </suite> <!-- BlazeDemo Suite -->
+</testng-results>
