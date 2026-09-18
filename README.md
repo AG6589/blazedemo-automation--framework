@@ -101,7 +101,7 @@ blazedemo-automation
 
 ## 👤 Author
 
-Suryance Raj  
+Aman Kumar Gupta
 Aspiring QA / Automation Engineer  
 Skilled in Manual + Automation Testing (Selenium, Java, TestNG)
 
